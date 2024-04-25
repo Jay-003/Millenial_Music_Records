@@ -1,0 +1,41 @@
+/* General Styles for a default screen size */
+
+/* ======================================== */
+
+body {
+  color: #333;
+  font: normal 16px/150% Arial, Helvetica, sans-serif;
+  background-color: #ededed;
+  margin: 20px auto 0 auto;
+}
+
+.page {
+  margin: 0 auto;
+  background: #fff;
+  padding: 1em;
+  box-sizing: border-box;
+  border: #ccc solid 1px;
+}
+
+.page p {
+  color: #333;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1em;
+}
+
+h1 {
+  color: #273c75;
+  font: bold 2.5em/1em Futura, sans-serif;
+  font-variant: small-caps;
+  border-bottom: 2px #dcdde1 dotted;
+}
+
+.content {
+  margin: 0 auto;
+}
+
+footer {
+  margin-top: 0.2em;
+  padding: 1em;
+  text-align: center;
+}
